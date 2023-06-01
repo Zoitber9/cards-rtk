@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cards/static/css/main.7048050b.css",
-    "main.js": "/cards/static/js/main.08f1bb36.js",
-    "static/js/787.00b6ff40.chunk.js": "/cards/static/js/787.00b6ff40.chunk.js",
-    "static/media/logo.svg": "/cards/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/cards/index.html",
-    "main.7048050b.css.map": "/cards/static/css/main.7048050b.css.map",
-    "main.08f1bb36.js.map": "/cards/static/js/main.08f1bb36.js.map",
-    "787.00b6ff40.chunk.js.map": "/cards/static/js/787.00b6ff40.chunk.js.map"
+    "main.css": "/cards-rtk/static/css/main.7048050b.css",
+    "main.js": "/cards-rtk/static/js/main.357af26b.js",
+    "static/js/787.00b6ff40.chunk.js": "/cards-rtk/static/js/787.00b6ff40.chunk.js",
+    "static/media/logo.svg": "/cards-rtk/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/cards-rtk/index.html",
+    "main.7048050b.css.map": "/cards-rtk/static/css/main.7048050b.css.map",
+    "main.357af26b.js.map": "/cards-rtk/static/js/main.357af26b.js.map",
+    "787.00b6ff40.chunk.js.map": "/cards-rtk/static/js/787.00b6ff40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7048050b.css",
-    "static/js/main.08f1bb36.js"
+    "static/js/main.357af26b.js"
   ]
 }
